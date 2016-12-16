@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Floor</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="floor_prompt">Choose a Floor</string>
+    <string-array name="floor_array">
+        <item>Choose a Floor</item>
+        <item>First Floor</item>
+        <item>Second Floor</item>
+        <item>Third Floor</item>
+        <item>Fourth Floor</item>
+    </string-array>
+
+</resources>
